@@ -25,6 +25,11 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on **Arti
 
 Feel free to explore my repositories, and if you have any questions or would like to collaborate, don’t hesitate to reach out!
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndigoCloud6&layout=compact)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndigoCloud6&show_icons=true&theme=tokyonight)
+
 ---
 
 > "Strive not to be a success, but rather to be of value." – Albert Einstein
