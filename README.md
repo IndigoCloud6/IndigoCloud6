@@ -4,13 +4,14 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on **Arti
 
 ### 🚀 Currently working on:
 - Developing a **Digital Twin Product System** architecture.
-- Integrating **geospatial data** processing (GDAL, GeoJSON) in **Unreal Engine**.
-- Building RESTful APIs with **Drogon** and **SQLite**.
+- Integrating **geospatial data** processing.
+- Building **3D visualization scenes** using **Unreal Engine**.
+- Building RESTful APIs with **C++ Drogon** or **Java Spring Framework**.
 - Exploring **Large Language Models (LLM)** and **AI** applications.
 
 ### 🔧 Technologies & Tools:
 - **Languages**: C++, Python, Java, SQL
-- **Frameworks/Tools**: Unreal Engine, Drogon, FastAPI, PaddleOCR, GDAL, vcpkg, CLion, SpringBoot&Cloud, Maven ...
+- **Frameworks/Tools**: Unreal Engine, Drogon, FastAPI, PaddleOCR, GDAL, vcpkg, jetbrains ides, SpringBoot&Cloud, Maven ...
 - **Databases**: SQLite, PostgreSQL, MySQL ...
 - **Other**: GeoJSON, Cesium, Docker, Git
 
