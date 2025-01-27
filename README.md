@@ -2,12 +2,42 @@
 
 Welcome to my GitHub profile! I'm a passionate programmer with a focus on **Artificial Intelligence**, **Digital Twin**, and **Geospatial Data**. I enjoy solving complex problems with code and constantly learning new technologies to improve my skills.
 
-### 🚀 Currently working on:
-- Developing a **Digital Twin Product System** architecture.
-- Integrating **geospatial data** processing.
-- Building **3D visualization scenes** using **Unreal Engine**.
-- Building RESTful APIs with **C++ Drogon** or **Java Spring Framework**.
-- Exploring **Large Language Models (LLM)** and **AI** applications.
+### 🚀 Currently Working On
+
+#### 🏗️ Digital Twin & 3D Projects
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+- 🌐 Architecting a next-generation **Digital Twin Product System**
+  - 🔄 Real-time data synchronization and simulation
+  - 📊 Advanced data visualization and analytics
+  - 🎯 Industry-specific customization capabilities
+
+#### 🗺️ Geospatial Engineering
+![Status](https://img.shields.io/badge/Status-Active-success)
+- 🌍 Advanced **Geospatial Data** processing pipeline
+  - 🔍 High-performance spatial data analysis
+  - 📡 Real-time GIS data integration
+  - 🗂️ Multi-source data fusion and optimization
+
+#### 🎮 3D Visualization & Gaming
+![Status](https://img.shields.io/badge/Status-Ongoing-blue)
+- 🎯 Creating immersive **3D visualization** experiences
+  - 🎨 Building photorealistic scenes with **Unreal Engine 5**
+  - 🔮 Real-time rendering and optimization
+  - 🌈 Advanced graphics and effects implementation
+
+#### ⚡ Backend Architecture
+![Status](https://img.shields.io/badge/Status-Development-yellow)
+- 🔧 Designing high-performance backend systems
+  - 🚀 **C++ Drogon** for high-concurrency services
+  - ☁️ **Spring Cloud** microservices architecture
+  - 📈 Scalable and maintainable API design
+
+#### 🤖 AI & LLM Integration
+![Status](https://img.shields.io/badge/Status-Research-purple)
+- 🧠 Exploring cutting-edge **AI technologies**
+  - 🤝 LLM integration in enterprise applications
+  - 🔄 Building autonomous AI agents
+  - 📊 Implementing intelligent data analysis systems
 
 #### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
