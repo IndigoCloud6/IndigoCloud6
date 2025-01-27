@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [MaxYun] 👋
 
 Welcome to my GitHub profile! I'm a passionate programmer with a focus on **Artificial Intelligence**, **Digital Twin**, and **Geospatial Data**. I enjoy solving complex problems with code and constantly learning new technologies to improve my skills.
 
@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on **Arti
 
 ### 🔧 Technologies & Tools:
 - **Languages**: C++, Python, Java, SQL
-- **Frameworks/Tools**: Unreal Engine, Drogon, FastAPI, PaddleOCR, GDAL, vcpkg, CLion
-- **Databases**: SQLite, PostgreSQL
+- **Frameworks/Tools**: Unreal Engine, Drogon, FastAPI, PaddleOCR, GDAL, vcpkg, CLion, SpringBoot&Cloud, Maven ...
+- **Databases**: SQLite, PostgreSQL, MySQL ...
 - **Other**: GeoJSON, Cesium, Docker, Git
 
 ### 🌱 I’m currently learning:
@@ -20,9 +20,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on **Arti
 - **Artificial Intelligence in Industry**.
 
 ### 💬 Let’s connect:
-- **LinkedIn**: [your-linkedin-url]
-- **Email**: [your-email@example.com]
-- **Website/Portfolio**: [your-website-url]
+- **Email**: [maxyun@163.com]
 
 Feel free to explore my repositories, and if you have any questions or would like to collaborate, don’t hesitate to reach out!
 
